@@ -1,0 +1,2 @@
+This is a spam ham classfication project solved using Multinomial NB from naive bayes classification
+Before using the ML model ,we had to conver the textual data into numerical data ,so we have two embedding techniques used here which are Bag of Words(BOW),TF-IDF vectorizer both gives 100% accuracy on test data
