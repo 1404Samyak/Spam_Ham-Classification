@@ -9,7 +9,3 @@ xgboost
 openpyxl
 scipy
 nltk
-langchain
-langchain-ollama
-langchain-text-splitters
-langchain_huggingface
