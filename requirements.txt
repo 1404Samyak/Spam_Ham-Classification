@@ -9,3 +9,4 @@ xgboost
 openpyxl
 scipy
 nltk
+gensim
